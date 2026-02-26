@@ -1,4 +1,4 @@
-# FB_club_crawler_with_RESTful_API
+# FB_group_crawler_with_RESTful_API
 
 使用 FastAPI 建立 RESTful API，  
 提供 Facebook 社團貼文與留言資料之查詢介面。  
